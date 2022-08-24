@@ -52,7 +52,7 @@ const Home = props => {
     setOverlap(true);
     setTimeout(() => {
       setBrowsing(true);
-      navigate('/react-ecommerce-store/browse');
+      navigate('/browse');
     }, 1500);
   }
 
@@ -63,15 +63,15 @@ const Home = props => {
 
   const handleNavGamePage = () => {
     setHoverState([...hoverState, hoverState[21].hovered = false]);
-    navigate('/react-ecommerce-store/games/riseofthetombraider');
+    navigate('/games/riseofthetombraider');
   }
   
   const handleNavNotFoundPage = () => {
-    navigate('/react-ecommerce-store/this-page');
+    navigate('/this-page');
   }
   
   const handleNavNotFoundQuery = () => {
-    navigate('/react-ecommerce-store/games/404');
+    navigate('/games/404');
   }
   
   const handlePlayDice = () => {
@@ -80,7 +80,7 @@ const Home = props => {
     setOverlap(true);
     setTimeout(() => {
       setBrowsing(true);
-      navigate(`/react-ecommerce-store/games/${randomSurname}`);
+      navigate(`/games/${randomSurname}`);
     }, 1500);
   }
 
@@ -123,7 +123,7 @@ const Home = props => {
         <div className={styles.home}>
 
                 <video autoPlay muted loop className={styles.video}>
-                  <source src={require("../../Resources/image/pyke.mp4")} type="video/mp4" />
+                  <source src={require("../../Resources/media/pyke.mp4")} type="video/mp4" />
                 </video>
 
                 <NavBar 
@@ -153,7 +153,7 @@ const Home = props => {
                                 <Dice className={styles.ctaSVG} />
                                 Play Dice
                               </button>
-                              <a href="https://github.com/gianlucajahn/react-ecommerce-store" target="_blank"><button className={styles.cta} aria-label="View Repository">
+                              <a href="https://github.com/nucliweb/react-ecommerce-game-store" target="_blank"><button className={styles.cta} aria-label="View Repository">
                                 <GitHubLogo className={styles.ctaSVG} />
                                 GitHub
                               </button></a>
@@ -179,19 +179,19 @@ const Home = props => {
                               <NotFoundQuery className={`${styles.ctaSVG}`} />
                               404 Query
                             </button>
-                            <a href='https://github.com/gianlucajahn/react-ecommerce-store/commits/main' target="_blank"><button className={styles.cta} aria-label="Open commit log">
+                            <a href='https://github.com/gianlucajahn/commits/main' target="_blank"><button className={styles.cta} aria-label="Open commit log">
                               <Git className={styles.ctaSVG} />
                               Commit Log
                             </button></a>
-                            <a href="https://github.com/gianlucajahn/react-ecommerce-store/blob/main/README.md#performance" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="Open performance test results">
+                            <a href="https://github.com/gianlucajahn/blob/main/README.md#performance" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="Open performance test results">
                               <Performance className={`${styles.ctaSVG}`} />
                               Performance
                             </button></a>
-                            <a href="https://github.com/gianlucajahn/react-ecommerce-store/blob/main/README.md#technologies-used" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="View technologies used"> 
+                            <a href="https://github.com/gianlucajahn/blob/main/README.md#technologies-used" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="View technologies used"> 
                               <img className={styles.technologies} src={require("../../Resources/image/whatruns.png")} alt="WhatRuns logo"/>
                               Technologies
                             </button></a>
-                            <a href="https://github.com/gianlucajahn/react-ecommerce-store/blob/main/README.md#sources" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="View Sources">
+                            <a href="https://github.com/gianlucajahn/blob/main/README.md#sources" target="_blank"><button className={`${styles.cta} ${styles.lastChild}`} aria-label="View Sources">
                               <Sources className={`${styles.ctaSVG}`} />
                               Our Sources
                             </button></a>

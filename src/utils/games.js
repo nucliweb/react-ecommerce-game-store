@@ -16,12 +16,12 @@ const games = [
         isLiked: false,
         rating: 78,
         id: 0,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/cyberpunk_n6jitl.jpg",
+        cover: "/assets/images/cyberpunk_n6jitl.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/cyberpunk_n6jitl.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235373/cyberpunk_1_s00vwf.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235372/cyberpunk_2_mq46xm.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235378/cyberpunk_3_fajdmi.jpg"
+            "/assets/images/cyberpunk_n6jitl.jpg",
+            "/assets/images/cyberpunk_1_s00vwf.jpg",
+            "/assets/images/cyberpunk_2_mq46xm.jpg",
+            "/assets/images/cyberpunk_3_fajdmi.jpg"
         ]
     },
     {
@@ -41,12 +41,12 @@ const games = [
         isLiked: false,
         rating: 71,
         id: 1,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188621/battlefield_n0gd5a.jpg",
+        cover: "/assets/images/battlefield_n0gd5a.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188621/battlefield_n0gd5a.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_1_jpudhq.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_3_zy9ewv.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235438/battlefield_2_txs230.jpg"
+            "/assets/images/battlefield_n0gd5a.jpg",
+            "/assets/images/battlefield_1_jpudhq.jpg",
+            "/assets/images/battlefield_3_zy9ewv.jpg",
+            "/assets/images/battlefield_2_txs230.jpg"
         ]
     },
     {
@@ -66,12 +66,12 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 2,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/lis_ft0puo.jpg",
+        cover: "/assets/images/lis_ft0puo.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/lis_ft0puo.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_1_rkrxt5.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236272/lis_2_dcrdwz.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_3_komskf.jpg"
+            "/assets/images/lis_ft0puo.jpg",
+            "/assets/images/lis_1_rkrxt5.jpg",
+            "/assets/images/lis_2_dcrdwz.jpg",
+            "/assets/images/lis_3_komskf.jpg"
         ]
     },
     {
@@ -91,12 +91,12 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 3,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658232678/mariokart_0_mhgbeg.jpg",
+        cover: "/assets/images/mariokart_0_mhgbeg.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658232678/mariokart_0_mhgbeg.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236315/mariokart_1_heekfq.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236316/mariokart_3_yzhdje.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236315/mariokart_2_peeyho.jpg"
+            "/assets/images/mariokart_0_mhgbeg.jpg",
+            "/assets/images/mariokart_1_heekfq.jpg",
+            "/assets/images/mariokart_3_yzhdje.jpg",
+            "/assets/images/mariokart_2_peeyho.jpg"
         ]
     },
     {
@@ -116,12 +116,12 @@ const games = [
         isLiked: false,
         rating: 86,
         id: 4,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188602/bioshockinfinite_qyo3pi.jpg",
+        cover: "/assets/images/bioshockinfinite_qyo3pi.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188602/bioshockinfinite_qyo3pi.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236359/bioshockinfinite_1_vutin0.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236360/bioshockinfinite_2_bphusb.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236361/bioshockinfinite_3_v1ckvh.jpg"
+            "/assets/images/bioshockinfinite_qyo3pi.jpg",
+            "/assets/images/bioshockinfinite_1_vutin0.jpg",
+            "/assets/images/bioshockinfinite_2_bphusb.jpg",
+            "/assets/images/bioshockinfinite_3_v1ckvh.jpg"
         ]
     },
     {
@@ -141,12 +141,12 @@ const games = [
         isLiked: false,
         rating: 81,
         id: 5,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188622/anno_cbmzye.jpg",
+        cover: "/assets/images/anno_cbmzye.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188622/anno_cbmzye.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236405/anno_1_bpil6t.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236405/anno_2_udh5ep.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236405/anno_3_hoqcp0.jpg"
+            "/assets/images/anno_cbmzye.jpg",
+            "/assets/images/anno_1_bpil6t.jpg",
+            "/assets/images/anno_2_udh5ep.jpg",
+            "/assets/images/anno_3_hoqcp0.jpg"
         ]
     },
     {
@@ -166,12 +166,12 @@ const games = [
         isLiked: false,
         rating: 92,
         id: 6,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188613/rdr_fhqs3d.jpg",
+        cover: "/assets/images/rdr_fhqs3d.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,w_1920/v1658188613/rdr_fhqs3d.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236494/rdr_3_euhfwh.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236495/rdr_2_aodums.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236494/rdr_1_v6xhov.jpg"
+            "/assets/images/rdr_fhqs3d.jpg",
+            "/assets/images/rdr_3_euhfwh.jpg",
+            "/assets/images/rdr_2_aodums.jpg",
+            "/assets/images/rdr_1_v6xhov.jpg"
         ]
     },
     {
@@ -191,12 +191,12 @@ const games = [
         isLiked: false,
         rating: 90,
         id: 7,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/horizon_jzlhsd.jpg",
+        cover: "/assets/images/horizon_jzlhsd.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/horizon_jzlhsd.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236576/horizon_3_vwjcpi.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236574/horizon_2_ara05m.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236574/horizon_1_johwym.jpg"
+            "/assets/images/horizon_jzlhsd.jpg",
+            "/assets/images/horizon_3_vwjcpi.jpg",
+            "/assets/images/horizon_2_ara05m.jpg",
+            "/assets/images/horizon_1_johwym.jpg"
         ]
     },
     {
@@ -216,12 +216,12 @@ const games = [
         isLiked: false,
         rating: 90,
         id: 8,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/gtav_x1ccio.jpg",
+        cover: "/assets/images/gtav_x1ccio.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/gtav_x1ccio.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236641/gtav_1_gkelkb.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236641/gtav_3_dswcgm.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236641/gtav_2_b1xno6.jpg"
+            "/assets/images/gtav_x1ccio.jpg",
+            "/assets/images/gtav_1_gkelkb.jpg",
+            "/assets/images/gtav_3_dswcgm.jpg",
+            "/assets/images/gtav_2_b1xno6.jpg"
         ]
     },
     {
@@ -241,12 +241,12 @@ const games = [
         isLiked: false,
         rating: 88,
         id: 9,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658584215/skyrim_js5pmg.jpg",
+        cover: "/assets/images/skyrim_js5pmg.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658584215/skyrim_js5pmg.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658583241/skyrim_1_ludikr.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658583241/skyrim_2_zgnhf5.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658584731/maxresdefault_mciyjz.jpg"
+            "/assets/images/skyrim_js5pmg.jpg",
+            "/assets/images/skyrim_1_ludikr.jpg",
+            "/assets/images/skyrim_2_zgnhf5.jpg",
+            "/assets/images/maxresdefault_mciyjz.jpg"
         ]
     },
     {
@@ -266,12 +266,12 @@ const games = [
         isLiked: false,
         rating: 76,
         id: 10,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188601/warframe_kghu8g.jpg",
+        cover: "/assets/images/warframe_kghu8g.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188601/warframe_kghu8g.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236676/warframe_3_t2bwvx.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236676/warframe_2_ihvoqj.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236674/warframe_1_txaury.jpg"
+            "/assets/images/warframe_kghu8g.jpg",
+            "/assets/images/warframe_3_t2bwvx.jpg",
+            "/assets/images/warframe_2_ihvoqj.jpg",
+            "/assets/images/warframe_1_txaury.jpg"
         ]
     },
     {
@@ -291,12 +291,12 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 11,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/minecraft_iuejtm.jpg",
+        cover: "/assets/images/minecraft_iuejtm.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/minecraft_iuejtm.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236747/minecraft_2_pqo4tv.png",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236749/minecraft_1_vyp8bd.png",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236744/minecraft_3_cea2dc.png"
+            "/assets/images/minecraft_iuejtm.jpg",
+            "/assets/images/minecraft_2_pqo4tv.png",
+            "/assets/images/minecraft_1_vyp8bd.png",
+            "/assets/images/minecraft_3_cea2dc.png"
         ]
     },
     {
@@ -316,12 +316,12 @@ const games = [
         isLiked: false,
         rating: 82,
         id: 12,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188610/riseofthetombraider_uq2q6t.jpg",
+        cover: "/assets/images/riseofthetombraider_uq2q6t.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188610/riseofthetombraider_uq2q6t.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236831/riseofthetombraider_2_vvhbqe.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236829/riseofthetombraider_1_bq8avn.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236830/riseofthetombraider_3_xm9ggz.jpg"
+            "/assets/images/riseofthetombraider_uq2q6t.jpg",
+            "/assets/images/riseofthetombraider_2_vvhbqe.jpg",
+            "/assets/images/riseofthetombraider_1_bq8avn.jpg",
+            "/assets/images/riseofthetombraider_3_xm9ggz.jpg"
         ]
     },
     {
@@ -341,12 +341,12 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 13,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188608/metro_o45ytf.jpg",
+        cover: "/assets/images/metro_o45ytf.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188608/metro_o45ytf.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236875/metro_1_mseeps.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236878/metro_2_wtk9ux.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236875/metro_3_y6ux12.jpg"
+            "/assets/images/metro_o45ytf.jpg",
+            "/assets/images/metro_1_mseeps.jpg",
+            "/assets/images/metro_2_wtk9ux.jpg",
+            "/assets/images/metro_3_y6ux12.jpg"
         ]
     },
     {
@@ -366,12 +366,12 @@ const games = [
         isLiked: false,
         rating: 81,
         id: 14,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188609/terraria_yb3iuc.jpg",
+        cover: "/assets/images/terraria_yb3iuc.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188609/terraria_yb3iuc.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236904/terraria_1_sw79la.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236905/terraria_2_kqpdyq.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236905/terraria_3_wghczh.jpg"
+            "/assets/images/terraria_yb3iuc.jpg",
+            "/assets/images/terraria_1_sw79la.jpg",
+            "/assets/images/terraria_2_kqpdyq.jpg",
+            "/assets/images/terraria_3_wghczh.jpg"
         ]
     },
     {
@@ -391,12 +391,12 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 15,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188608/rocketleague_on6yqd.jpg",
+        cover: "/assets/images/rocketleague_on6yqd.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,w_1920/v1658188608/rocketleague_on6yqd.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236932/rocketleague_2_oogr9i.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236933/rocketleague_3_s6klzw.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236929/rocketleague_1_qcslm3.jpg"
+            "/assets/images/rocketleague_on6yqd.jpg",
+            "/assets/images/rocketleague_2_oogr9i.jpg",
+            "/assets/images/rocketleague_3_s6klzw.jpg",
+            "/assets/images/rocketleague_1_qcslm3.jpg"
         ]
     },
     {
@@ -416,12 +416,12 @@ const games = [
         isLiked: false,
         rating: 95,
         id: 16,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188610/thewitcher_tllr60.jpg",
+        cover: "/assets/images/thewitcher_tllr60.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188610/thewitcher_tllr60.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236962/thewitcher_2_tipggu.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658237770/witcher1_zgg86b.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236962/thewitcher_3_kyoymo.jpg"
+            "/assets/images/thewitcher_tllr60.jpg",
+            "/assets/images/thewitcher_2_tipggu.jpg",
+            "/assets/images/witcher1_zgg86b.jpg",
+            "/assets/images/thewitcher_3_kyoymo.jpg"
         ]
     },
     {
@@ -441,12 +441,12 @@ const games = [
         isLiked: false,
         rating: 81,
         id: 17,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188605/hitman_pqhnm6.jpg",
+        cover: "/assets/images/hitman_pqhnm6.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188605/hitman_pqhnm6.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658237949/hitman_yj2now.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658237835/hitman_2_s3d61k.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658237835/hitman_1_ny5whm.jpg"
+            "/assets/images/hitman_pqhnm6.jpg",
+            "/assets/images/hitman_yj2now.jpg",
+            "/assets/images/hitman_2_s3d61k.jpg",
+            "/assets/images/hitman_1_ny5whm.jpg"
         ]
     },
     {
@@ -466,12 +466,12 @@ const games = [
         isLiked: false,
         rating: 80,
         id: 18,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188603/fallout_kuxjw3.jpg",
+        cover: "/assets/images/fallout_kuxjw3.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188603/fallout_kuxjw3.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238100/fallout_1_b4smuk.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238100/fallout_2_rlg0ng.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238100/fallout_3_tc6vd8.jpg"
+            "/assets/images/fallout_kuxjw3.jpg",
+            "/assets/images/fallout_1_b4smuk.jpg",
+            "/assets/images/fallout_2_rlg0ng.jpg",
+            "/assets/images/fallout_3_tc6vd8.jpg"
         ]
     },
     {
@@ -491,12 +491,12 @@ const games = [
         isLiked: false,
         rating: 90,
         id: 19,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/gtasanandreas_xkkyyp.jpg",
+        cover: "/assets/images/gtasanandreas_xkkyyp.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,w_1920/v1658188606/gtasanandreas_xkkyyp.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238143/gtasanandreas_1_zah5ph.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238142/gtasanandreas_2_vhvzyf.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238143/gtasanandreas_3_pb1aih.jpg"
+            "/assets/images/gtasanandreas_xkkyyp.jpg",
+            "/assets/images/gtasanandreas_1_zah5ph.jpg",
+            "/assets/images/gtasanandreas_2_vhvzyf.jpg",
+            "/assets/images/gtasanandreas_3_pb1aih.jpg"
         ]
     },
     {
@@ -516,12 +516,12 @@ const games = [
         isLiked: false,
         rating: 70,
         id: 20,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188609/golfwithyourfriends_rxrsbv.jpg",
+        cover: "/assets/images/golfwithyourfriends_rxrsbv.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188609/golfwithyourfriends_rxrsbv.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238166/golfwithyourfriends_1_hoq6ii.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238166/golfwithyourfriends_2_zecdjb.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238166/golfwithyourfriends_3_euuouh.jpg"
+            "/assets/images/golfwithyourfriends_rxrsbv.jpg",
+            "/assets/images/golfwithyourfriends_1_hoq6ii.jpg",
+            "/assets/images/golfwithyourfriends_2_zecdjb.jpg",
+            "/assets/images/golfwithyourfriends_3_euuouh.jpg"
         ]
     },
     {
@@ -541,12 +541,12 @@ const games = [
         isLiked: false,
         rating: 82,
         id: 21,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188605/heavyrain_bljnwv.jpg",
+        cover: "/assets/images/heavyrain_bljnwv.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188605/heavyrain_bljnwv.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238195/heavyrain_1_vvpszy.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238195/heavyrain_2_f8y4rn.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238196/heavyrain_3_fmkc8p.jpg"
+            "/assets/images/heavyrain_bljnwv.jpg",
+            "/assets/images/heavyrain_1_vvpszy.jpg",
+            "/assets/images/heavyrain_2_f8y4rn.jpg",
+            "/assets/images/heavyrain_3_fmkc8p.jpg"
         ]
     },
     {
@@ -566,12 +566,12 @@ const games = [
         isLiked: false,
         rating: 79,
         id: 22,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188603/dota_gdjxqx.jpg",
+        cover: "/assets/images/dota_gdjxqx.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188603/dota_gdjxqx.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238225/dota_1_lld4aw.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238227/dota_2_pguv1e.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238225/dota_3_ef1lec.jpg"
+            "/assets/images/dota_gdjxqx.jpg",
+            "/assets/images/dota_1_lld4aw.jpg",
+            "/assets/images/dota_2_pguv1e.jpg",
+            "/assets/images/dota_3_ef1lec.jpg"
         ]
     },
     {
@@ -591,12 +591,12 @@ const games = [
         isLiked: false,
         rating: 92,
         id: 23,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/portal2_eugfiq.jpg",
+        cover: "/assets/images/portal2_eugfiq.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/portal2_eugfiq.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238290/portal2_1_tm6kyw.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238290/portal2_2_kmrlol.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238292/portal2_3_pjhzkj.jpg"
+            "/assets/images/portal2_eugfiq.jpg",
+            "/assets/images/portal2_1_tm6kyw.jpg",
+            "/assets/images/portal2_2_kmrlol.jpg",
+            "/assets/images/portal2_3_pjhzkj.jpg"
         ]
     },
     {
@@ -616,12 +616,12 @@ const games = [
         isLiked: false,
         rating: 82,
         id: 24,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188603/civilization_jcuqap.jpg",
+        cover: "/assets/images/civilization_jcuqap.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188603/civilization_jcuqap.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658238319/civilization_2_gpuqrk.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658238319/civilization_1_cc21ew.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238318/civilization_3_qv8ben.jpg"
+            "/assets/images/civilization_jcuqap.jpg",
+            "/assets/images/civilization_2_gpuqrk.jpg",
+            "/assets/images/civilization_1_cc21ew.jpg",
+            "/assets/images/civilization_3_qv8ben.jpg"
         ]
     },
     {
@@ -641,12 +641,12 @@ const games = [
         isLiked: false,
         rating: 94,
         id: 25,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188602/godofwar_cbqzk1.jpg",
+        cover: "/assets/images/godofwar_cbqzk1.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188602/godofwar_cbqzk1.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238374/godofwar_1_c7k5as.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238373/godofwar_2_tiemyf.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238377/godofwar_3_qohtw3.jpg"
+            "/assets/images/godofwar_cbqzk1.jpg",
+            "/assets/images/godofwar_1_c7k5as.jpg",
+            "/assets/images/godofwar_2_tiemyf.jpg",
+            "/assets/images/godofwar_3_qohtw3.jpg"
         ]
     },
     {
@@ -666,12 +666,12 @@ const games = [
         isLiked: false,
         rating: 80,
         id: 26,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188603/fifa_zb6ook.jpg",
+        cover: "/assets/images/fifa_zb6ook.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188603/fifa_zb6ook.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238407/fifa_1_tt7wm8.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658582251/fifa3_faiswk.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238406/fifa_3_rwnx2k.jpg"
+            "/assets/images/fifa_zb6ook.jpg",
+            "/assets/images/fifa_1_tt7wm8.jpg",
+            "/assets/images/fifa3_faiswk.jpg",
+            "/assets/images/fifa_3_rwnx2k.jpg"
         ]
     },
     {
@@ -691,12 +691,12 @@ const games = [
         isLiked: false,
         rating: 91,
         id: 27,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/halflife_fiorjc.jpg",
+        cover: "/assets/images/halflife_fiorjc.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/halflife_fiorjc.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238448/halflife_1_nhsnrj.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238448/halflife_2_wpnvmz.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238450/halflife_3_xgil4x.jpg"
+            "/assets/images/halflife_fiorjc.jpg",
+            "/assets/images/halflife_1_nhsnrj.jpg",
+            "/assets/images/halflife_2_wpnvmz.jpg",
+            "/assets/images/halflife_3_xgil4x.jpg"
         ]
     },
     {
@@ -716,12 +716,12 @@ const games = [
         isLiked: false,
         rating: 86,
         id: 28,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188600/twd_dmycxx.jpg",
+        cover: "/assets/images/twd_dmycxx.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188600/twd_dmycxx.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238474/twd_1_l4bv5v.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238474/twd_2_m9rg9r.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238474/twd_3_cclznv.jpg"
+            "/assets/images/twd_dmycxx.jpg",
+            "/assets/images/twd_1_l4bv5v.jpg",
+            "/assets/images/twd_2_m9rg9r.jpg",
+            "/assets/images/twd_3_cclznv.jpg"
         ]
     },
     {
@@ -741,12 +741,12 @@ const games = [
         isLiked: false,
         rating: 85,
         id: 29,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188601/crusaderkings_fpz1te.jpg",
+        cover: "/assets/images/crusaderkings_fpz1te.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188601/crusaderkings_fpz1te.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658238507/crusaderkings_1_m5wm5p.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238507/crusaderkings_2_pmrmcc.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238506/crusaderkings_3_hdzha4.jpg"
+            "/assets/images/crusaderkings_fpz1te.jpg",
+            "/assets/images/crusaderkings_1_m5wm5p.jpg",
+            "/assets/images/crusaderkings_2_pmrmcc.jpg",
+            "/assets/images/crusaderkings_3_hdzha4.jpg"
         ]
     },
     {
@@ -766,12 +766,12 @@ const games = [
         isLiked: false,
         rating: 82,
         id: 30,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188600/csgo_o9whdd.jpg",
+        cover: "/assets/images/csgo_o9whdd.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188600/csgo_o9whdd.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238547/csgo_1_gne318.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238546/csgo_2_j1tgfo.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238546/csgo_3_qgcwjw.jpg"
+            "/assets/images/csgo_o9whdd.jpg",
+            "/assets/images/csgo_1_gne318.jpg",
+            "/assets/images/csgo_2_j1tgfo.jpg",
+            "/assets/images/csgo_3_qgcwjw.jpg"
         ]
     },
     {
@@ -791,12 +791,12 @@ const games = [
         isLiked: false,
         rating: 89,
         id: 31,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188602/detroit_a4kqkx.jpg",
+        cover: "/assets/images/detroit_a4kqkx.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188602/detroit_a4kqkx.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658238582/detroit_1_i8im17.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658238582/detroit_2_yacxie.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238578/detroit_3_truscr.jpg"
+            "/assets/images/detroit_a4kqkx.jpg",
+            "/assets/images/detroit_1_i8im17.jpg",
+            "/assets/images/detroit_2_yacxie.jpg",
+            "/assets/images/detroit_3_truscr.jpg"
         ]
     },
     {
@@ -816,12 +816,12 @@ const games = [
         isLiked: false,
         rating: 85,
         id: 32,
-        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188613/tombraider_qx2xiy.jpg",
+        cover: "/assets/images/tombraider_qx2xiy.jpg",
         footage: [
-            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658188613/tombraider_qx2xiy.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238650/tombraider_1_jxeua4.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238650/tombraider_2_fnhmmd.jpg",
-            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658238650/tombraider_3_cr0yee.jpg"
+            "/assets/images/tombraider_qx2xiy.jpg",
+            "/assets/images/tombraider_1_jxeua4.jpg",
+            "/assets/images/tombraider_2_fnhmmd.jpg",
+            "/assets/images/tombraider_3_cr0yee.jpg"
         ]
     },
 ]
