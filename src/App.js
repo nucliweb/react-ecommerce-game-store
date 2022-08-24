@@ -320,6 +320,7 @@ useEffect(() => {
     document.body.style.overflow = "hidden";
 
   } else if (location.pathname === "/browse") {
+    navigate('/browse');
     document.body.style.overflow = "scroll";
   }
 }, [location.pathname])
