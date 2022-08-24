@@ -153,7 +153,7 @@ const Home = props => {
                                 <Dice className={styles.ctaSVG} />
                                 Play Dice
                               </button>
-                              <a href="https://github.com/nucliweb/react-ecommerce-game-store" target="_blank"><button className={styles.cta} aria-label="View Repository">
+                              <a href="https://github.com/gianlucajahn/react-ecommerce-store" target="_blank"><button className={styles.cta} aria-label="View Repository">
                                 <GitHubLogo className={styles.ctaSVG} />
                                 GitHub
                               </button></a>
