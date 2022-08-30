@@ -309,7 +309,6 @@ const handleRemoveFromCart = (e) => {
 
 useEffect(() => {
   setOverlap(false);
-  console.log('location.pathname:', location.pathname)
 
   if (location.pathname === "/") {
     setBrowsing(false);
@@ -333,10 +332,6 @@ const handleOpenCart = () => {
 const handleCloseCart = () => {
   setCartDisplayed(false);
 }
-
-useEffect(() => {
-  console.log(selectedGame);
-}, [selectedGame])
 
 useEffect(() => {
   if (cartDisplayed) {
