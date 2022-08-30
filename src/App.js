@@ -309,6 +309,7 @@ const handleRemoveFromCart = (e) => {
 
 useEffect(() => {
   setOverlap(false);
+  console.log('location.pathname:', location.pathname)
 
   if (location.pathname === "/") {
     setBrowsing(false);
