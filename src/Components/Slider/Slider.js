@@ -73,9 +73,7 @@ const Slider = props => {
   }
 
   const jumpToIndex = (e) => {
-    console.log(e.target.id);
     let index = parseInt(e.target.id);
-    console.log(index);
     setCarouselState(index);
     slideRef.current.goTo(index);
   }
